@@ -1,0 +1,16 @@
+user = {
+    { Login = "Admin", ID = "93aa57ff4f75661b", Game = "Car Parking" },
+ { Login = "Nikita", ID = "ba80936461b86087", Game = "Car Parking" },
+ { Login = "12345", ID = "cef846fcb3a51d39", Game = "Car Parking" },
+ { Login = "1234", ID = "221e32fe1bb0fddf", Game = "Car Parking" },
+{ Login = "kokola", ID = "68b38b5aae45a077", Game = "Car Parking" },
+{ Login = "230332", ID = "384fc2b4de96651a", Game = "Car Parking" },
+{ Login = "Wayh", ID = "c8993cc4f2a58334", Game = "Car Parking" },
+{ Login = "nk6upq32ewcg21a", ID = "4b1ea3193141d99d", Game = "Car Parking" },
+{ Login = "BYH26BHIsNof", ID = "02b232e9c9de959b", Game = "Car Parking" },
+{ Login = "d35sVETi74Yn", ID = "f014cf8cb1e8348d", Game = "Car Parking" },
+{ Login = "zrGc4s0dQo4aNj9", ID = "5003cff21958de1f", Game = "Car Parking" },
+{ Login = "ngceCs19v2mGmLO", ID = "54ee053f775986c6", Game = "Car Parking" },
+{ Login = "yQFagJV1V4WpqnU", ID = "93a8b2e6566325d8", Game = "Car Parking" },
+{ Login = "NikitaHackPc", ID = "c6f50d1bbf246f4f", Game = "Car Parking" },
+}
